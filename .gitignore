@@ -1,0 +1,20 @@
+# Logs
+*.log
+
+# Dependency directories
+node_modules/
+vendor/
+
+# Python
+_pycache_/
+*.pyc
+.env
+
+# VS Code
+.vscode/
+
+# macOS
+.DS_Store
+
+# Windows
+Thumbs.db
